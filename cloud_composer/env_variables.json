@@ -1,0 +1,7 @@
+{
+"PROJECT_ID": "platinum-voice-302121",
+"BUCKET_NAME": "jobsity_challenge",
+"REGION": "southamerica-east1",
+"ZONE": "southamerica-east1-b",
+"INGESTION_DIR": "jobsity_challenge/data"
+}

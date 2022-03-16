@@ -1,0 +1,12 @@
+workerConfig:
+ # Equal in order to not scale primary workers
+  minInstances: 4
+  maxInstances: 4 
+secondaryWorkerConfig:
+  maxInstances: 100 # MaxInstances value for the secondary (preemptible) workers
+basicAlgorithm:
+  cooldownPeriod: 4m
+  yarnConfig:
+    scaleUpFactor: 0.05
+    scaleDownFactor: 1.0
+    gracefulDecommissionTimeout: 1h
