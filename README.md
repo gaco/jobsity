@@ -169,7 +169,7 @@ https://console.cloud.google.com/bigquery?project=platinum-voice-302121&d=jobsit
 
 - View with weekly average number of trips for an area, defined by a bounding box (given by coordinates) or by a region:
 
-  > I choosed to use "by a region".
+  > I choose to use "by a region".
 
 ![image-20220316145145798](images/image-20220316145145798.png)
 
